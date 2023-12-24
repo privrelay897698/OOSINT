@@ -1,0 +1,2 @@
+# OOSINT
+OOSINT - Offensive OSINT
